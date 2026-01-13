@@ -1,4 +1,7 @@
 # 📊 Customer Churn Prediction App
+![SS](image_3.png)
+
+
 
 
 
