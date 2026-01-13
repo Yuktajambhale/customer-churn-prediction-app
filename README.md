@@ -12,7 +12,7 @@
 
 
 # 🔗 Live App:
-👉 https://customer-churn-prediction-app-dxwdq9cxp4p58zly9mgyw.streamlit.app
+👉 [https://customer-churn-prediction-app-dxwdq9cxp4p58zly9mgyw.streamlit.app](https://customer-churn-prediction-app-dxwdq9cxp4p58zly9ymgyw.streamlit.app/)
 
 # 🚀 Project Overview
 
